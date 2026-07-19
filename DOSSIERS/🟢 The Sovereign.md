@@ -1,4 +1,4 @@
-## Lead 01 — 🟢 THE SOVEREIGN — INVEST (~$2.4B)
+## Lead 01 — 🟢 THE SOVEREIGN — INVEST 
 
 Company: Global Sovereign Infrastructure Fund
 
@@ -85,3 +85,4 @@ Decision: INVEST (1)
 [AUDIT_TRAIL]
 
 [2026-07-19T12:59:24.285Z] OMNI_KERNEL_V1: Analysis complete. Version: 1.0. Prior: V6. Hash: 763127177176198. Seed: 732407054060496. Action: INVEST. Exp Rev: 480200. Kelly: 0.430.
+---
