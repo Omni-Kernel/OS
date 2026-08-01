@@ -770,12 +770,6 @@ These paradigms have been fully integrated into the alphabetical feature registr
 
 ## SECTION V: VOLATILITY AND VARIANCE
 
-#### **Volatility Tax Waterfall**
-- **Definition:** Charts the exact capital erosion caused by pipeline stalling, indecision, and epistemic uncertainty.
-- **Usage:** Visualizes the invisible cost of time and operational drag on a specific deal, showing how variance destroys value.
-- **Operational Integration:** A specialized visual component in the V7.2 Dossier UI, derived from the Fractional Kelly calculations.
-- **Business Impact:** Trains human operators to intuitively understand and fear unnecessary variance in their deal structures.
-
 #### **Variance-Penalized Capital Allocation**
 - **Definition:** Shrinks the Kelly Fraction calculation heavily when epistemic uncertainty (variance) is high.
 - **Usage:** Protects against massive losses on 'sure thing' deals that exhibit sudden instability or contradictory data points.
