@@ -507,14 +507,8 @@ A multi-axis radar topology that visualizes the opportunity's profile across Gro
 
 <br>
 
-### 5 — Volatility Tax & Radioactive Decay Curve
 
-- **Volatility Tax Waterfall:** Visualizes the invisible cost of time and indecision. It charts how capital is eroded by prolonged sales cycles and operational drag.
-- **Radioactive Decay Curve:** A non-linear area chart showing the toxic decay of a deal's viability over time. If a deal sits in the pipeline without structural progression, its value decays exponentially.
-
-<br>
-
-### 6 — Zero-Trust Merkle Provenance & Cryptographic State Lock
+### 5 — Zero-Trust Merkle Provenance & Cryptographic State Lock
 
 Every decision made by the Swarm and every human override is logged into an immutable audit trail.
 
