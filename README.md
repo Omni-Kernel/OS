@@ -20,7 +20,7 @@
 
 ## ❯ SYSTEM DEMONSTRATION: OMNI_KERNEL
 
-The Omni Kernel v8.0 is a high-performance, zero-latency **React + TypeScript** decision engine. It acts as a strictly deterministic pipeline execution framework that ingests unstructured enterprise sales data (via Markdown dossiers), evaluates it against strict cryptographic, legal, and temporal policies in the browser, and outputs a Fractional Kelly Criterion allocation for human capital. It is designed to systematically reduce "gut feeling" in enterprise sales. 
+The Omni Kernel v7.2 is a high-performance, zero-latency **React + TypeScript** decision engine. It acts as a strictly deterministic pipeline execution framework that ingests unstructured enterprise sales data (via Markdown dossiers), evaluates it against strict cryptographic, legal, and temporal policies in the browser, and outputs a Fractional Kelly Criterion allocation for human capital. It is designed to systematically reduce "gut feeling" in enterprise sales. 
 
 <br>
 
@@ -55,10 +55,9 @@ The Omni Kernel v8.0 is a high-performance, zero-latency **React + TypeScript** 
 <br>
 
 [🗂️ Dossier Interfaces](#15-dossier-interfaces) •
-[📈 The CLV Modifier](#16-the-physics-of-escalation-the-clv-modifier) •
-[⚖️ Hard-Kill Matrix](#17-the-hard-kill--defer-matrix) •
-[🚀 Deployment Playbook](#18-deployment--maintenance-playbook) •
-[📚 Glossary of Terms](#19-glossary-of-terms)
+[⚖️ Hard-Kill Matrix](#16-the-hard-kill--defer-matrix) •
+[🚀 Deployment Playbook](#17-deployment--maintenance-playbook) •
+[📚 Glossary of Terms](#18-glossary-of-terms)
 
 </div>
 
@@ -111,9 +110,8 @@ Every unstructured text ping introduces microstates of noise. The Kernel measure
 High entropy deals are inherently volatile. The Kernel heavily taxes their Kelly allocations, ensuring sales teams are not deployed on accounts displaying systemic trust decay.
 
 ```typescript
-// src/math.ts : analyzeThermodynamicEntropy()
-export function analyzeThermodynamicEntropy(text: string, facts: any): any {
-    let entropyScore = 50;
+// src/math.ts : calculateTrustDecay()
+function calculateTrustDecay(facts: any, vectors: any): any {
     // Dynamic logic for decaying score based on contradictions
     // Outputs structural integrity metric
 }
@@ -142,31 +140,35 @@ The Kernel abandons linear lead scoring in favor of a strictly ordered probabili
 └─────────────────┬─────────────────────────┘
                   ▼
 ┌───────────────────────────────────────────┐
-│  2. Thermodynamic Entropy Analysis        │  ← Trust decay + Radioactive classification
+│  2. Intelligent Document Processing (IDP) │  ← Simulated analysis of signatures, clauses, and layouts.
 └─────────────────┬─────────────────────────┘
                   ▼
 ┌───────────────────────────────────────────┐
-│  3. Legal Policy Engine                   │  ← Scans for terminal blockers (IP, Liability, Source Code)
+│  3. Thermodynamic Entropy Analysis        │  ← Trust decay + Radioactive classification
 └─────────────────┬─────────────────────────┘
                   ▼
 ┌───────────────────────────────────────────┐
-│  4. Compliance & Security Evaluation      │  ← Checks SOC2, GDPR, Data Residency constraints
+│  4. Legal Policy Engine                   │  ← Scans for terminal blockers (IP, Liability, Source Code)
 └─────────────────┬─────────────────────────┘
                   ▼
 ┌───────────────────────────────────────────┐
-│  5. Temporal Governance Engine            │  ← Analyzes time-to-value, procurement windows (DEFER vs INVEST)
+│  5. Compliance & Security Evaluation      │  ← Checks SOC2, GDPR, Data Residency constraints
 └─────────────────┬─────────────────────────┘
                   ▼
 ┌───────────────────────────────────────────┐
-│  6. Stakeholder Engagement Matrix         │  ← Authority Coverage: CEO, CFO, Procurement, Security, Legal
+│  6. Temporal Governance Engine            │  ← Analyzes time-to-value, procurement windows (DEFER vs INVEST)
 └─────────────────┬─────────────────────────┘
                   ▼
 ┌───────────────────────────────────────────┐
-│  7. Kill Score Calculation                │  ← Computes aggregate risk of deal failure based on above constraints
+│  7. Stakeholder Engagement Matrix         │  ← Authority Coverage: CEO, CFO, Procurement, Security, Legal
 └─────────────────┬─────────────────────────┘
                   ▼
 ┌───────────────────────────────────────────┐
-│  8. Variance-Penalized Kelly Allocation   │  ← Outputs the optimal f* capital fraction to deploy
+│  8. Kill Score Calculation                │  ← Computes aggregate risk of deal failure based on above constraints
+└─────────────────┬─────────────────────────┘
+                  ▼
+┌───────────────────────────────────────────┐
+│  9. Variance-Penalized Kelly Allocation   │  ← Outputs the optimal f* capital fraction to deploy
 └─────────────────┬─────────────────────────┘
                   ▼
        [ KILL / DEFER / ESCALATE / REVIEW / INVEST ]
@@ -208,7 +210,6 @@ OMNI_KERNEL prevents single-point-of-failure hallucinations via a continuous adv
 | Node | Role | Function |
 | :--- | :--- | :--- |
 | 🛡️ **RISK_NODE** | The Skeptic | Evaluates thermodynamic entropy and political risk vectors. Generates the Kill Score. |
-| ⏳ **CHRONOS_NODE** | The Timekeeper | Executes Temporal Governance. Evaluates procurement gaps. Triggers DEFER actions. |
 | 📈 **REVENUE_NODE** | The Forecaster | Models deal size, confidence score, and calculates expected financial outcomes. |
 | ⚖️ **COMPLIANCE_NODE** | The Warden | Enforces Legal, GDPR, and Security risk policy bounds. Identifies Fatal Policy Rejections. |
 | 💰 **CAPITAL_NODE** | The Allocator | Computes the **Kelly Criterion** ($f^*$). Taxes EV by epistemic uncertainty. |
@@ -341,7 +342,7 @@ Revenue OS is architected as a high-performance SPA that can act as a headless d
 
 - **Zero-Trust Legal Checks:** Hard-coded evaluations in `enterprise_engine.ts` for clauses such as `ipTransfer`, `sourceCodeTransfer`, `unlimitedLiability`, and `mandatoryCustomCrypto`.
 - **Stakeholder Matrices:** Explicit tracking of executive involvement. The system checks `ceo`, `cfo`, `procurement`, `security`, and `legal` against known interactions.
-- **Vendor Registration Validation:** Differentiates between active procurement pipelines and stalled states (e.g., "Vendor registered but purchasing not initiated").
+- **Vendor Registration Validation:** Differentiates between active procurement pipelines and stalled states (e.g., "Vendor selected. Procurement pipeline active" vs "Procurement process not started").
 
 <br>
 
@@ -405,13 +406,18 @@ The monolithic terminal dashboard.
 ### `/src/math.ts`
 The quantitative heart of the system.
 - `calculatePipelineMath()`: The primary orchestrator function that processes a raw string and outputs the fully computed deal state, including the `finalAction` (KILL, INVEST, etc.).
-- `analyzeThermodynamicEntropy()`: Computes structural integrity and noise levels.
+- `calculateTrustDecay()`: Computes structural integrity and noise levels.
 - `LegalPolicyEngine`: Contains the logic for identifying catastrophic legal clauses.
 
 ### `/src/enterprise_engine.ts`
 The deterministic fact extraction layer.
 - Uses regex and keyword heuristics to simulate an LLM's structured extraction of a deal's core facts from unstructured text (e.g., budget confidence, legal requirements, timelines, technical feasibility).
 - Used as the precursor step to the mathematical engine in `math.ts`.
+
+### `/src/idp_engine.ts`
+Intelligent Document Processing engine mapping module.
+- Simulates extraction of canonical entities, layout blocks (headers, signature blocks, specific clauses), and coordinates document extraction bounding boxes.
+- Hooked into the main `enterprise_engine.ts` fact extractor.
 
 <br>
 
@@ -426,35 +432,7 @@ If a deal is flagged as `LEGAL-001` (Unlimited Liability), the UI explicitly reg
 
 ---
 
-## 16. DOSSIER INTERFACES
-
-The **Omni Kernel V8.0** architecture features high-density visualization panels:
-
-### 1 — Truth Matrix & Adversarial Bias Detection
-Actively scans and scores incoming signals. It quantifies the "Truth Density" of a deal, flagging inflated pipelines before capital is committed.
-
-### 2 — Structural Entropy Heatmap
-Measures the degradation or chaos within the deal's structure across vectors like Team Cohesion, Sponsor Risk, and Budget Stability. 
-
-### 3 — Procurement State & Stakeholder Map
-Distinguishes clearly between "Vendor registered but purchasing not initiated" and an active, funded pipeline. Identifies missing economic buyers instantly.
-
-<br>
-
----
-
-## 17. THE PHYSICS OF ESCALATION: THE CLV MODIFIER
-
-Enterprise accounts are rarely static; they are highly dynamic, multi-year engagements with continuous expansion potential. 
-
-### The Contract Renewal Edge
-When evaluating an existing customer entering a contract renewal cycle, the Kernel applies a proprietary CLV Modifier to the standard Kelly equation. Routine warnings that would normally downgrade a net-new prospect to `REVIEW` or `DEFER` are systematically overridden to protect the installed base.
-
-<br>
-
----
-
-## 18. THE HARD-KILL & DEFER MATRIX
+## 16. THE HARD-KILL & DEFER MATRIX
 
 While the fractional Kelly Criterion dictates capital allocation sizes, certain deal characteristics represent infinite downside risk or massive temporal inefficiency. The **Hard-Kill & Defer Matrix** is an unyielding, deterministic governance layer that completely bypasses the stochastic engine.
 
@@ -469,7 +447,7 @@ When any of the following parameters evaluate to true, the Kelly Fraction is for
 
 ---
 
-## 19. DEPLOYMENT & MAINTENANCE PLAYBOOK
+## 17. DEPLOYMENT & MAINTENANCE PLAYBOOK
 
 To ensure the OMNI_KERNEL maintains its valuation trajectory, the underlying physical infrastructure and maintenance protocols are rigorously defined:
 
@@ -489,30 +467,13 @@ The React + Vite frontend handles the real-time UI visualization. Because comput
 
 ---
 
-## 20. GLOSSARY OF TERMS
+## 18. GLOSSARY OF TERMS
 
 - **Epistemic Uncertainty:** Uncertainty arising from a lack of knowledge or hidden information (e.g., an undisclosed competitor).
 - **Aleatoric Uncertainty:** Inherent randomness in the system (e.g., a champion unexpectedly leaving the company).
 - **Thermodynamic Entropy:** A measure of disorder and noise within a deal's structure, quantified by the breakdown of trust and communication.
 - **Temporal Governance:** The mathematical framework used to evaluate and discount a deal's Expected Value based on time-to-value, procurement latency, and contract expiration windows.
 - **Kelly Criterion ($f^*$):** A mathematical formula used to determine the optimal size of a series of bets to maximize the logarithm of wealth.
-
-<br>
-
----
-
-## 21. TELEMETRY & SYSTEM METRICS
-
-The OMNI_KERNEL produces telemetry designed for algorithmic consumption:
-
-- **Capital Velocity (CV):** The rate at which the system moves capital out of high-entropy deals and into high-probability deals.
-- **Entropy Generation Rate (EGR):** The speed at which a deal structure degrades without active intervention.
-- **Kelly Preservation Ratio (KPR):** The percentage of total pipeline capital shielded from "Kelly Ruin" by the Variance Penalty over a trailing 90-day window.
-
-<br>
-
----
----
 
 <br>
 
