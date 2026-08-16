@@ -1,83 +1,188 @@
-## Lead 02 — 🟠 THE TITAN — ESCALATE 
+<div align="center">
 
-Company: Titan Defense Consortium
+# 🟠 GLOBAL AEROSPACE CORP
+### Deal Dossier — Defense Sector Deployment
 
-Industry: Aerospace & Defense
+`SIGNAL_ID: SIG-1A00AB719AB` · `TIER: 40` · `DEAL VALUE: $8,500,000`
 
-Potential Contract Value: $8.7 Billion
+## ⚡ TERMINAL ACTION: ESCALATE
 
-Signals:
+**Allocation: $50,368** &nbsp;·&nbsp; **Kill Risk Score: 80/100** &nbsp;·&nbsp; **Win Posterior: 68.7%**
 
-• Government strategic partnership
-
-• Exclusive supplier requirement
-
-• Exclusive reseller clause
-
-• CEO sponsor
-
-• Buying Committee Approved
-
-• Budget Approved
-
-• Commercial Negotiation Final Round
-
-• Security Cleared
-
-• No contradictions
-
-• No policy violations
+</div>
 
 ---
 
-## Enterprise Architectural Dossier
+## 📡 Raw Signal
 
-ENTERPRISE ARCHITECTURAL DOSSIER (TIER-1 ELITE)
+> *"Incredible breakthrough on the $8,500,000 deployment for Global Aerospace Corp. The CEO signed off on the CapEx, and procurement is actively preparing the PO for a go-live next month. The technical validation was flawless. However, to secure this contract, they are demanding an exclusive sector agreement preventing us from selling to any other defense or aerospace contractor for the next 3 years. They are willing to pay upfront, but legal is currently reviewing this exclusivity requirement."*
 
-SIGNAL_ID: SIG-19F7A76138E
+---
 
-CAPITAL_ACTION: ESCALATE (131494)
+## 🎯 Executive Verdict
 
-POTENTIAL_REVENUE: 441750 (Range: 375488 - 533779)
+| Metric | Value |
+| :--- | :---: |
+| **Decision** | ⚡ **ESCALATE** |
+| **Decision Confidence** | 54.4% |
+| **Epistemic Confidence (Data Quality)** | 54.4% |
+| **Extraction Fidelity** | 93.8% |
+| **Credible Interval** | ±22.8% — Low Certainty |
+| **Portfolio Rating** | POLICY ESCALATION |
+| **Opportunity Quality** | 55 / 100 |
+| **Relationship Strength** | 23 / 100 |
 
-DEPLOYABLE_REVENUE: 278963
+### Key Strengths
+- ✅ Budget Confidence: 84% — *Evidence: CapEx Approved*
+- ✅ Decision-maker engaged — CEO ✓ · CFO ✗ · Procurement ✗ · Security ✗ · Legal ✗
+- ✅ Technical validation: flawless
 
-KILL_SCORE: 80/100
+### 🚩 Primary Risks
+- **Level 3 Governance** — Exclusivity Requirement
+- **Strategic Concentration Risk** — Deal represents 85% of the target portfolio
+- **Strategic Constraint** — 3-year exclusive sector agreement blocking all other defense/aerospace sales
 
-WASTE_AVOIDED: 0
+---
 
--------------------------------------
+## 🧮 Bayesian Posterior Chain
 
-X-AI REASONING:
+| Stage | Signal | Output |
+| :--- | :--- | :---: |
+| 1. Macro Prior Distribution | Historical industry baseline | 39% |
+| 2. NLP Intent Evidence Update | Semantic density scaling | 54% |
+| 3. Executive Authority Multiplier | Confirmed economic buyer | 64% weight |
+| 4. Budget Certainty Hurdle | Beta conjugate update | 71% confidence |
+| **5. Bayesian Posterior Convergence** | **Final win probability** | **68.7%** |
 
-- Extract Facts: Signal parsing and semantic extraction completed. (1)
+**Prior → Posterior Evolution**
 
-- Resolve Evidence: Evidence reconciliation passed. (1)
+| Step | Prior | Posterior | Shift |
+| :--- | :---: | :---: | :---: |
+| Initial Qualification | 64% | 64% | 0.0% |
+| Intent Evidence | 64% | 70% | +6.0% |
+| Authority Evidence | 70% | 78% | +8.0% |
+| Budget Evidence | 78% | 85% | +7.0% |
+| Commercial Stage | 85% | 90% | +5.0% |
+| **Policy & Risk Penalty** | **90%** | **69%** | **-21.0%** |
 
-- Contradiction Engine: No contradictions detected. (1)
+---
 
-- Policy Engine: No fatal policy violations detected. (1)
+## 🛡️ Risk Dimensions — Execution Exposure: 65/100
 
-- Governance Engine: Reason: Exclusivity Requirement, Strategic Partnership, Exclusive Reseller
+| Vector | Score | Description |
+| :--- | :---: | :--- |
+| Technical Risk | 11 | Infrastructure & cloud compatibility |
+| Commercial Risk | 8 | Pricing, discounting, payment terms |
+| Legal & Regulatory | 14 | Jurisdiction, data residency, contracts |
+| **Governance Posture** | **32** | **Executive sponsorship & audit readiness** |
 
-Decision: ESCALATE (1)
+**Residual Unmitigated Risks:** Payment Timing · Post-deployment Churn · Renewal Risk
 
-- Bayesian Update: Posterior shifted to 89.4%. (0.15)
+### Structural Entropy Analysis
 
-- Kelly Criterion: Allocation: 13.1% (0.131) (0.25)
+| Factor | Score |
+| :--- | :---: |
+| Tech Alignment | 94% |
+| Funding Certainty | 71% |
+| Executive Authority | 0% |
+| Timeline | 80% |
+| Competitor Field | 96% |
+| Algorithmic Fit | 54% |
+| Integration Readiness | 48% |
+| Data Fidelity | 94% |
+| **Compliance** | **55%** |
 
-- Customer Intent: Intent Stage 10. Detected: Executive Sponsor, Buying Committee, Budget Approved, Commercial Negotiation. (0.25)
+---
 
-- Confidence: 95% - High (0.2)
+## 🧠 SHAP Feature Attribution
 
-- Authority: Executive sponsor engaged: CEO, Buying Committee (0.25)
+| Feature | Contribution |
+| :--- | :---: |
+| Executive Authority | +21.2% |
+| Statistical Prior | +19.0% |
+| Procurement | +16.1% |
+| Intent | +15.1% |
+| Timeline | +10.5% |
+| Budget Status | +5.8% |
+| Competition | +5.5% |
+| Model Disagreement | −8.0% |
 
-- Budget: Budget status: FUNDED (0.2)
+---
 
-- Posterior Mean: Statistical posterior win probability: 89.4%. (0.15)
+## 🎲 Monte Carlo Fat-Tail Distribution (5,000 Iterations)
 
--------------------------------------
+| Percentile | Conditional Revenue (win-only) | Unconditional Revenue (all outcomes) |
+| :--- | ---: | ---: |
+| P10 | $3,746,868 | $0 |
+| P50 (Median) | $4,567,335 | $4,150,244 |
+| P90 | $5,575,410 | $5,370,894 |
 
-[AUDIT_TRAIL]
+---
 
-[2026-07-19T12:59:46.446Z] OMNI_KERNEL_V7: Analysis complete. Version: 1.0. Prior: V6. Hash: 5964337180421526. Seed: 2969523417931717. Action: ESCALATE. Exp Rev: 441750. Kelly: 0.131.
+## 💰 Financial Unit Economics
+
+| Line Item | Amount |
+| :--- | ---: |
+| Acquisition Cost (CAC) | $425,000 |
+| Delivery Cost (SLA) | $2,230,952 |
+| Expected Gross Profit | $927,102 |
+| Net Expected Profit | $502,102 |
+| Return on Invested Time (ROIT) | 19% |
+| CAC : LTV Ratio | 7.4x |
+| **ROI Density** | **7.4x** |
+
+---
+
+## ⚖️ Decision Fusion Engine
+
+| Layer | Output |
+| :--- | :--- |
+| Business Protocol Suggestion (economics only) | INVEST |
+| Policy & Qualification Override | **ESCALATE** |
+| Arbitration Status | OVERRULED BY POLICY |
+| **Terminal Action** | **⚡ ESCALATE** |
+
+**Fractional Kelly Breakdown**
+
+| Component | Value |
+| :--- | :---: |
+| Baseline Kelly Fraction (f*) | 20.1% |
+| Fractional Safety Multiplier | 0.50x |
+| Sovereignty Governance Multiplier | 0.50x |
+| Portfolio-Constrained Allocation | **5.0%** |
+
+**Portfolio Scarcity:** 75% Utilized — 11/15 active deal slots · 7,500/10,000 engineering hours · Predicted exhaustion in 25 days
+
+---
+
+## 📊 Mathematical Consistency Audit
+
+| Audit | Displayed | Recomputed | Variance | Status |
+| :--- | ---: | ---: | ---: | :---: |
+| Revenue Consistency | $3,158,054 | $3,158,054 | $0 | ✅ PASS |
+| Profit Consistency | $502,102 | $502,102 | $0 | ✅ PASS |
+
+---
+
+## ✅ Execution Directive
+
+| Field | Value |
+| :--- | :--- |
+| **Owner** | Legal Counsel |
+| **Due** | 3 Days |
+| **Required Reviews** | Security · Legal · Competition |
+| **Directive** | Escalate to Executive Governance → Assign Regulatory Affairs → Suspend Production Deployment |
+| **Capital Deployed (Pursuit)** | $50,368 |
+| **Predicted Sales Cycle** | 20 Days |
+
+### Prescriptive Next Best Actions
+1. **Submit security questionnaire** — *+12% conversion lift*
+2. **Schedule CFO alignment call** — *+8% conversion lift*
+
+---
+
+<div align="center">
+
+**Terminal Arbitrator: ESCALATE** · Highest deal value in the batch, technically flawless, but a 3-year exclusivity clause and 85% portfolio concentration demand executive sign-off before capital scales past pursuit-stage
+
+</div>
