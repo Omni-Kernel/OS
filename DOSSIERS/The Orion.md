@@ -1,85 +1,187 @@
-## Lead 03 — 🟡 THE ORION  — DEFER=[REVIEW LOW]
+<div align="center">
 
-Company: Orion Space Logistics
+# 🟡 ENGINEERING TRANSFORMATION
+### Deal Dossier — Pilot-to-Scale Initiative
 
-Industry: Space Infrastructure
+`SIGNAL_ID: SIG-1A00AB6C538` · `TIER: D19` · `DEAL VALUE: $2,500,000`
 
-Potential Contract Value: $1.9 Billion
+## ⏱️ TERMINAL ACTION: DEFER
 
-Signals:
+**Allocation: $10,875** &nbsp;·&nbsp; **Kill Risk Score: 65/100** &nbsp;·&nbsp; **Win Posterior: 70.2%**
 
-• Board Approval completed
-
-• Executive Sponsor confirmed
-
-• Vendor technically selected
-
-• Security Passed
-
-• Legal Review completed
-
-• Budget approved for NEXT fiscal year
-
-• Procurement opens in 11 months
-
-• Customer requests revisit in Q3 next year
-
-• No contradictions
-
-• No policy violations
+</div>
 
 ---
 
-## Enterprise Architectural Dossier
+## 📡 Raw Signal
 
-ENTERPRISE ARCHITECTURAL DOSSIER (TIER-1 ELITE)
+> *"The engineering team is extremely excited about the $2,500,000 transformation initiative. The Director of IT said the budget is estimated for next year, though we haven't spoken to the CFO. We are currently evaluating vendors in a competitive bake-off. Procurement hasn't started yet. They want to do a pilot expansion first to prove ROI."*
 
-SIGNAL_ID: SIG-19F7A766266
+---
 
-CAPITAL_ACTION: REVIEW_LOW (65629)
+## 🎯 Executive Verdict
 
-POTENTIAL_REVENUE: 435700 (Range: 370345 - 523632)
+| Metric | Value |
+| :--- | :---: |
+| **Decision** | ⏱️ **DEFER** |
+| **Decision Confidence** | 61.8% |
+| **Epistemic Confidence (Data Quality)** | 61.8% |
+| **Extraction Fidelity** | 90.7% |
+| **Credible Interval** | ±19.1% — Low Certainty |
+| **Portfolio Rating** | DEFERRED ASSET |
+| **Opportunity Quality** | 67 / 100 |
+| **Relationship Strength** | 61 / 100 *(Previous History / Expansion)* |
 
-DEPLOYABLE_REVENUE: 246445
+### Key Strengths
+- ✅ Functional stakeholder identified: Director of IT
 
-KILL_SCORE: 27.72/100
+### 🚩 Primary Risks
+- **Competitive Bake-off** — actively evaluating multiple vendors
+- **Policy Gate:** PASS &nbsp;|&nbsp; **Compliance Gate:** PENDING (Non-Blocking)
+- **Temporal Engine** — Project deferred to next year; procurement window not yet active
 
-WASTE_AVOIDED: 0
+---
 
--------------------------------------
+## 🧮 Bayesian Posterior Chain
 
-X-AI REASONING:
+| Stage | Signal | Output |
+| :--- | :--- | :---: |
+| 1. Macro Prior Distribution | Historical industry baseline | 40% |
+| 2. NLP Intent Evidence Update | Semantic density scaling | 55% |
+| 3. Executive Authority Multiplier | Confirmed economic buyer | 65% weight |
+| 4. Budget Certainty Hurdle | Beta conjugate update | 72% confidence |
+| **5. Bayesian Posterior Convergence** | **Final win probability** | **70.2%** |
 
-- Extract Facts: Signal parsing and semantic extraction completed. (1)
+**Prior → Posterior Evolution**
 
-- Resolve Evidence: Evidence reconciliation passed. (1)
+| Step | Prior | Posterior | Shift |
+| :--- | :---: | :---: | :---: |
+| Initial Qualification | 64% | 64% | 0.0% |
+| Intent Evidence | 64% | 61% | −3.0% |
+| Authority Evidence | 61% | 69% | +8.0% |
+| Budget Evidence | 69% | 65% | −4.0% |
+| Commercial Stage | 65% | 63% | −2.0% |
+| **Structural Quality Multiplier** | **63%** | **70%** | **+7.0%** |
 
-- Contradiction Engine: No contradictions detected. (1)
+---
 
-- Policy Engine: No fatal policy violations detected. (1)
+## 🛡️ Risk Dimensions — Execution Exposure: 60/100
 
-- Qualification Engine: Reason: Missing Timeline Details
+| Vector | Score | Description |
+| :--- | :---: | :--- |
+| Technical Risk | 10 | Infrastructure & cloud compatibility |
+| Commercial Risk | 8 | Pricing, discounting, payment terms |
+| Legal & Regulatory | 13 | Jurisdiction, data residency, contracts |
+| **Governance Posture** | **29** | **Executive sponsorship & audit readiness** |
 
-Decision: REVIEW_LOW (1)
+**Residual Unmitigated Risks:** Payment Timing · Post-deployment Churn · Renewal Risk
 
-- Governance Engine: No governance escalation required. (1)
+### Structural Entropy Analysis
 
-- Bayesian Update: Posterior shifted to 98.0%. (0.15)
+| Factor | Score |
+| :--- | :---: |
+| Tech Alignment | 91% |
+| Funding Certainty | 72% |
+| Executive Authority | 0% |
+| Timeline | 81% |
+| Competitor Field | 97% |
+| Algorithmic Fit | 62% |
+| Integration Readiness | 39% |
+| Data Fidelity | 91% |
+| **Compliance** | **66%** |
 
-- Kelly Criterion: Allocation: 6.6% (0.066) (0.25)
+---
 
-- Customer Intent: Intent Stage 10. Detected: Security Passed, Executive Sponsor, Board Approval, Budget Approved, Legal Negotiation. (0.25)
+## 🧠 SHAP Feature Attribution
 
-- Confidence: 93% - High (0.2)
+| Feature | Contribution |
+| :--- | :---: |
+| Executive Authority | +19.7% |
+| Statistical Prior | +16.6% |
+| Timeline | +9.7% |
+| Budget Status | +5.2% |
+| Competition | −15.4% |
+| Intent | −10.0% |
+| Procurement | −9.5% |
+| Model Disagreement | −7.0% |
 
-- Authority: Executive sponsor engaged: Executive Sponsor, Board (0.25)
+> ⚠️ Note the negative-contribution cluster (Competition, Intent, Procurement) — this deal's headline enthusiasm is offset by three separate features actively working against it.
 
-- Budget: Budget status: FUNDED (0.2)
+---
 
-- Posterior Mean: Statistical posterior win probability: 98.0%. (0.15)
+## 🎲 Monte Carlo Fat-Tail Distribution (5,000 Iterations)
 
--------------------------------------
+| Percentile | Conditional Revenue (win-only) | Unconditional Revenue (all outcomes) |
+| :--- | ---: | ---: |
+| P10 | $1,121,737 | $0 |
+| P50 (Median) | $1,357,397 | $1,250,135 |
+| P90 | $1,641,642 | $1,589,520 |
 
-[AUDIT_TRAIL]
+---
 
-[2026-07-19T13:00:06.630Z] OMNI_KERNEL_V7: Analysis complete. Version: 1.0. Prior: V6. Hash: 2528029995378551. Seed: 6098167124225349. Action: REVIEW_LOW. Exp Rev: 455700. Kelly: 0.066.
+## 💰 Financial Unit Economics
+
+| Line Item | Amount |
+| :--- | ---: |
+| Acquisition Cost (CAC) | $125,000 |
+| Delivery Cost (SLA) | $673,636 |
+| Expected Gross Profit | $299,605 |
+| Net Expected Profit | $174,605 |
+| Return on Invested Time (ROIT) | 22% |
+| CAC : LTV Ratio | 7.8x |
+
+---
+
+## ⚖️ Decision Fusion Engine
+
+| Layer | Output |
+| :--- | :--- |
+| Business Protocol Suggestion (economics only) | INVEST |
+| Policy & Qualification Override | **DEFER** |
+| Arbitration Status | OVERRULED BY POLICY |
+| **Terminal Action** | **⏱️ DEFER** |
+
+**Fractional Kelly Breakdown**
+
+| Component | Value |
+| :--- | :---: |
+| Baseline Kelly Fraction (f*) | 21.7% |
+| Fractional Safety Multiplier | 0.50x |
+| Sovereignty Governance Multiplier | 0.10x |
+| Portfolio-Constrained Allocation | **1.1%** |
+
+**Portfolio Scarcity:** 75% Utilized — 11/15 active deal slots · 7,500/10,000 engineering hours · Predicted exhaustion in 25 days
+
+---
+
+## 📊 Mathematical Consistency Audit
+
+| Audit | Displayed | Recomputed | Variance | Status |
+| :--- | ---: | ---: | ---: | :---: |
+| Revenue Consistency | $973,241 | $973,241 | $0 | ✅ PASS |
+| Profit Consistency | $174,605 | $174,605 | $0 | ✅ PASS |
+
+---
+
+## ✅ Execution Directive
+
+| Field | Value |
+| :--- | :--- |
+| **Owner** | Account Executive |
+| **Due** | 3 Days |
+| **Required Reviews** | Security · Legal · Intent · Integration |
+| **Directive** | Hold Opportunity → Monitor Trigger Events → Re-evaluate Next Planning Cycle |
+| **Waste Avoided** | $16,000 |
+| **Predicted Sales Cycle** | 19 Days *(once reactivated)* |
+
+### Prescriptive Next Best Actions
+1. **Submit security questionnaire** — *+12% conversion lift*
+2. **Schedule CFO alignment call** — *+8% conversion lift*
+
+---
+
+<div align="center">
+
+**Terminal Arbitrator: DEFER** · Genuine enthusiasm, but no CFO contact, no procurement motion, and an active competitive bake-off — capital held, not committed
+
+</div>
