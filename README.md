@@ -243,20 +243,19 @@ This architecture is uniquely defensible due to the underlying proprietary math 
 ### (SYNTHETIC PIPELINE EVALUATION)
 
 </div>
-
-<br>
-
 ## 7. THE GUT VS. KERNEL LEDGER
 
-By systematically filtering deals with exclusivity traps, timeline mismatches, unfunded budgets, and toxic legal terms, the system aims to significantly increase the bandwidth of high-cost human capital.
-> *Below: five representative deal dossiers synthetic run through the full pipeline, showing the engine's output at each stage.*
+By systematically filtering deals with security bypasses, exclusivity traps, unfunded/deferred budgets, and licensing conflicts, the system aims to significantly increase the bandwidth of high-cost human capital.
+
+> *Below: five representative deal dossiers run through the full pipeline, showing the engine's output at each stage.*
+
 | Lead ID | The Human "Gut" Move | The OMNI "Kernel" Move | The Delta (Δ) | Financial Impact |
 | :--- | :--- | :--- | :--- | :--- |
-| 🟢 **The Sovereign** | Approve the $2.4B deal on relationship trust alone | ✅ **INVEST** (Kelly 43.0%) | **💰 CAPITAL DEPLOYMENT** | Deployed $446,519 expected value (98.0% win posterior) |
-| 🟠 **The Titan** | Hesitate on $8.7B exclusivity & reseller clauses | ✅ **ESCALATE** (Kelly 13.1%) | **⚡ ALPHA CAPTURE** | Deployed $278,963 expected value (89.4% win posterior) |
-| 🟡 **The Orion** | Push to close now despite an 11-month procurement gap | ⚠️ **DEFER** (REVIEW_LOW) | **⏱️ TEMPORAL EFFICIENCY** | Avoided premature deployment of $246,445 tied to a deal that can't move for 11 months |
-| 🔵 **The Mirage** | Chase "strong interest" with no confirmed budget or decision-maker | ⚠️ **REVIEW_MEDIUM** | **🔍 QUALIFICATION HOLD** | Held $125,838 pending Security Review & Budget confirmation |
-| 🔴 **The Trojan** | Close the $12.8B "sure thing" and sign the paperwork | ❌ **HARD KILL ($0)** | **🛡️ IP PRESERVATION** | Saved $20,000 in evaluation waste — avoided Unlimited Liability, Perpetual IP Transfer, Mandatory Source Code Transfer & Custom Cryptography terms |
+| 🔴 **The Trojan** *(Horizon BioPharma)* | Rush the $4.5M rollout — CFO already verbally approved, PO signs tomorrow | ❌ **HARD KILL ($0)** | **🛡️ SECURITY PRESERVATION** | Saved $16,000 in evaluation waste — avoided MFA Bypass, sanctioned-entity data routing & Data Residency Violation ($500,000 exposure) |
+| 🔵 **The Mirage** *(Analytics Modernization)* | Push the $2.5M deal through on "PO is coming" momentum | ⚠️ **REVIEW** (Kelly 0.6%) | **🔍 QUALIFICATION HOLD** | Held $5,952 pending OSS licensing indemnification & Net 90 term resolution |
+| 🟡 **The Orion** *(Engineering Transformation)* | Chase the $2.5M deal despite budget only "estimated for next year" | ⚠️ **DEFER** (Kelly 1.1%) | **⏱️ TEMPORAL EFFICIENCY** | Deployed only $10,875 in pursuit capital against a deal blocked by a competitive bake-off and an inactive procurement window |
+| 🟠 **The Titan** *(Global Aerospace Corp)* | Chase the $8.5M "willing to pay upfront" signal and sign the exclusivity clause | ✅ **ESCALATE** (Kelly 5.0%) | **⚡ ALPHA CAPTURE, GATED** | Deployed $50,368 expected-value pursuit capital (68.7% win posterior) while routing the 3-year sector exclusivity clause to Legal Counsel before commitment |
+| 🟢 **The Sovereign** *(Global Health Partners)* | Approve the $5.0M deal on "everything sounds great" alone | ✅ **INVEST** (Kelly 15.0%) | **💰 CAPITAL DEPLOYMENT** | Deployed $150,000 expected value (98.0% win posterior, 100% evidence completeness) |
 
 <br>
 
@@ -266,13 +265,13 @@ By systematically filtering deals with exclusivity traps, timeline mismatches, u
 
 | Lead | Kill Score | Verdict | Distance From Nearest Decision Boundary |
 | :--- | :---: | :--- | :--- |
-| 🟢 **Sovereign** | 4.52/100 | INVEST | Far from any kill threshold — unambiguous |
-| 🟡 **Orion** | 27.72/100 | REVIEW_LOW | Moderate — timeline issue only, no policy risk |
-| 🔵 **Mirage** | 60.41/100 | REVIEW_MEDIUM | Close to the escalation line — budget unknown is doing the damage |
-| 🟠 **Titan** | 80/100 | ESCALATE | High score despite escalation — score reflects deal complexity, not deal badness |
-| 🔴 **Trojan** | 90/100 | KILL | Highest in the batch — terminal policy violation, not a borderline call |
+| 🟢 **Sovereign** | 1.4/100 | INVEST | Far from any kill threshold — unambiguous |
+| 🔵 **Mirage** | 41.56/100 | REVIEW | Mid-range — licensing and payment-terms friction, no fatal violation |
+| 🟡 **Orion** | 65/100 | DEFER | Elevated — timeline and procurement gap, not a policy hit |
+| 🟠 **Titan** | 80/100 | ESCALATE | High score despite escalation — score reflects concentration/exclusivity complexity, not deal badness |
+| 🔴 **Trojan** | 98/100 | KILL | Highest in the batch — terminal policy violation, not a borderline call |
 
-> **Why this matters:** Titan carries a *higher* kill score than Mirage, yet Titan escalates and Mirage sits in review. The score is an input to a governance decision — not the decision itself. That distinction is what separates this system from a simple threshold cutoff.
+> **Why this matters:** Titan carries a *lower* kill score than Trojan but a *higher* score than Orion, yet Titan escalates while Orion merely defers. The score is an input to a governance decision — not the decision itself. Trojan's near-maximum score reflects a fatal, non-negotiable violation; Titan's high-but-lower score reflects a structurally complex deal that is still salvageable under legal review.
 
 <br>
 
@@ -280,16 +279,16 @@ By systematically filtering deals with exclusivity traps, timeline mismatches, u
 
 ## THE REASONING CHAIN — WHY THE BEST-LOOKING DEAL DIED
 
-A walkthrough of the highest-stakes reversal in the batch: **The Trojan**, a $12.8B deal with a CEO sponsor, approved PO, and scheduled deployment — the most "ready-to-close" profile in the entire pipeline.
+A walkthrough of the highest-stakes reversal in the batch: **The Trojan**, a $4.5M deal with a fully engaged CEO/CIO, verbal CFO budget approval, and a PO ready to sign tomorrow — the most "ready-to-close" profile in the entire pipeline.
 
 1. **Extract Facts** → parsed clean, no ambiguity
-2. **Resolve Evidence** → reconciled, no gaps
+2. **Resolve Evidence** → reconciled, no contradictions
 3. **Contradiction Engine** → no contradictions found
-4. **Policy Engine** → flagged Unlimited Liability, Mandatory Source Code Transfer, Mandatory Custom Cryptography, Perpetual IP Ownership Transfer → **terminal violation**
+4. **Policy Engine** → flagged MFA Bypass (Security Engine), a sanctioned-entity routing requirement, and a Data Residency Violation ($500,000 exposure) → **Fatal Ethics/Business Violation, terminal**
 5. **Governance Engine** → bypassed entirely, because a terminal policy hit overrides standard governance review
-6. **Bayesian / Kelly layers** → still computed in full (85.6% win posterior, 96% confidence) but **never consulted** — the decision was already final
+6. **Bayesian / Kelly layers** → still computed in full (66.8% win posterior, 99% confidence) but **never consulted** — the decision was already final
 
-> **Why this matters:** Trojan cleared five separate evaluation gates and still died on the sixth. The probability math ran the whole way through and said "this deal would likely close" — and the system killed it anyway, because winning the deal and surviving its terms are two different questions. 
+> **Why this matters:** Trojan cleared budget confirmation and executive-authority checks and still died on the security and compliance gates. The probability math ran the whole way through and said "this deal would likely close" — and the system killed it anyway, because winning the deal and surviving its terms are two different questions.
 
 <br>
 
@@ -299,12 +298,16 @@ A walkthrough of the highest-stakes reversal in the batch: **The Trojan**, a $12
 
 <div align="center">
 
-### 💎 **TOTAL DEAL VALUE SCREENED: $30.1 BILLION**
-### 💎 **CAPITAL CLEARED FOR IMMEDIATE DEPLOYMENT: $11.1 BILLION** *(Sovereign + Titan)*
-### 💎 **TERMINAL LIABILITY EXPOSURE BLOCKED: $12.8 BILLION** *(The Trojan)*
+### 💎 **TOTAL DEAL VALUE SCREENED: $23.0 MILLION**
+### 💎 **CAPITAL CLEARED FOR IMMEDIATE DEPLOYMENT: $13.5 MILLION** *(Sovereign + Titan)*
+### 💎 **TERMINAL LIABILITY EXPOSURE BLOCKED: $4.5 MILLION** *(The Trojan)*
 ### 💎 **PIPELINE KILL RATE: 20%** *(1 of 5 deals terminated — surgical, not trigger-happy)*
 
 </div>
+
+<br>
+
+---
 
 <br>
 
