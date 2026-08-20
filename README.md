@@ -13,6 +13,12 @@
 🔴 **[STATUS: STEALTH — PROPRIETARY SOURCE CODE AIR-GAPPED PENDING ACQUISITION OR NDA]**
 
 </div>
+## 📺 SYSTEM DEMONSTRATION
+> **KERNEL v5.0 LIVE EXECUTION // ARCHITECTURAL WALKTHROUGH**
+
+ [![Omni-Kernel v5.0 Demo](https://img.youtube.com/vi/NYlsA_7q_k8/maxresdefault.jpg)]([https://www.youtube.com/watch?v=NYlsA_7q_k8](https://youtu.be/5T0q0xq-b2E))
+
+*Note: This is a secure high-fidelity demonstration of the 'Kill Score' logic and the Efficient Frontier plotting.*
 
 <br>
 
