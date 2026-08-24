@@ -38,33 +38,33 @@ The Omni Kernel v7.2 is a high-performance, zero-latency **React + TypeScript** 
 
 ## 📚 Navigation
 
-[🚀 Executive Summary](#1-executive-summary-the-1b-asset) •
-[🧠 Mathematical Physics](#2-the-mathematical-physics-of-revenue) •
-[⚙️ Algorithmic Kernel](#3-the-deterministic-algorithmic-kernel) •
-[⏳ Temporal Engine](#4-the-physics-of-time-temporal-governance-engine) •
-[🤖 Swarm Consensus](#5-multi-agent-swarm-consensus-the-neural-layer)
+[🚀 1. Executive Summary](#1-executive-summary-the-enterprise-asset) •
+[🧠 2. Quantitative Dynamics](#2-the-quantitative-dynamics-of-revenue) •
+[⚙️ 3. Algorithmic Kernel](#3-the-deterministic-algorithmic-kernel) •
+[⏳ 4. Temporal Engine](#4-the-physics-of-time-temporal-governance-engine) •
+[🤖 5. Swarm Consensus](#5-multi-agent-swarm-consensus-the-neural-layer)
 
 <br>
 
-[🏛️ Strategic Capabilities](#6-strategic-capabilities--proprietary-features) •
-[📊 Forensic Backtests](#7-the-gut-vs-kernel-ledger) •
-[🌐 Deployment Topology](#8-enterprise-deployment-topology) •
-[🔒 Security & Compliance](#9-security-compliance--legal-governance) 
+[🏛️ 6. Strategic Capabilities](#6-strategic-capabilities--proprietary-features) •
+[📊 7. Forensic Backtests](#7-the-gut-vs-kernel-ledger) •
+[🆚 8. Kernel vs. Legacy CRM](#8-architectural-comparison-kernel-vs-legacy-crm) •
+[🌐 9. Deployment Topology](#9-enterprise-deployment-topology) •
+[🔒 10. Security & Compliance](#10-security-compliance--legal-governance)
 
 <br>
 
-[📖 Feature Glossary](#10-deep-feature-glossary) •
-[💼 Vertical Markets](#11-vertical-market-disruption) •
-[🖥️ UI / UX Breakdown](#12-uiux-the-multi-agent-swarm-visualization) •
-[🧠 Code Architecture](#13-codebase-architecture--file-topology) •
-[🔐 Zero-Trust Governance](#14-zero-trust-governance)
+[📖 11. Feature Glossary](#11-deep-feature-glossary) •
+[💼 12. Vertical Markets](#12-vertical-market-disruption) •
+[🖥️ 13. UI / UX Breakdown](#13-uiux-the-multi-agent-swarm-visualization) •
+[🧠 14. Code Architecture](#14-codebase-architecture--file-topology) •
+[🔐 15. Zero-Trust Governance](#15-zero-trust-governance)
 
 <br>
 
-[🗂️ Dossier Interfaces](#15-dossier-interfaces) •
-[⚖️ Hard-Kill Matrix](#16-the-hard-kill--defer-matrix) •
-[🚀 Deployment Playbook](#17-deployment--maintenance-playbook) •
-[📚 Glossary of Terms](#18-glossary-of-terms)
+[⚖️ 16. Hard-Kill Matrix](#16-the-hard-kill--defer-matrix) •
+[🚀 17. Deployment Playbook](#17-deployment--maintenance-playbook) •
+[📚 18. Glossary of Terms](#18-glossary-of-terms)
 
 </div>
 
