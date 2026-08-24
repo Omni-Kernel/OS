@@ -246,7 +246,7 @@ This architecture is uniquely defensible due to the underlying proprietary math 
 
 <div align="center">
 
-# 📊 FORENSIC BACKTEST RESULTS
+# 7. 📊 FORENSIC BACKTEST RESULTS
 ### (SYNTHETIC PIPELINE EVALUATION)
 
 </div>
