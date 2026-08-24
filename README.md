@@ -250,6 +250,7 @@ This architecture is uniquely defensible due to the underlying proprietary math 
 ### (SYNTHETIC PIPELINE EVALUATION)
 
 </div>
+
 ## 7. THE GUT VS. KERNEL LEDGER
 
 By systematically filtering deals with security bypasses, exclusivity traps, unfunded/deferred budgets, and licensing conflicts, the system aims to significantly increase the bandwidth of high-cost human capital.
